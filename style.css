@@ -57,7 +57,7 @@ justify-content: space-between;
 .secondbg {
     width: 100;
     height: 100vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.39),rgba(0,0,0,0.75)),url(IMG_4957.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.39),rgba(0,0,0,0.75)),url(IMG_4957.JPG);
     background-size: cover; 
     background-position: center; 
 }
